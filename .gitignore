@@ -1,6 +1,8 @@
 .DS_Store
 .devcontainer
 
+ll-zc-notes/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
