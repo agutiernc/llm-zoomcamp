@@ -162,6 +162,8 @@ After indexing, let's perform the search of the same query from Q1.
 
 What's the ID of the document with the highest score?
 
+**Answer:** `ee58a693`
+
 ## Q6. Hit-rate for Elasticsearch
 
 The search engine we used in Q4 computed the similarity between
@@ -179,3 +181,5 @@ What's hitrate for our dataset for Elastic?
 * 0.73
 * 0.53
 * 0.33
+
+**Answer:** `0.93`
